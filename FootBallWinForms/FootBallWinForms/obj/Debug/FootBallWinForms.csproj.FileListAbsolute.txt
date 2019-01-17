@@ -1,0 +1,10 @@
+C:\Development\FootBall\FootBallWinForms\FootBallWinForms\bin\Debug\FootBallWinForms.exe.config
+C:\Development\FootBall\FootBallWinForms\FootBallWinForms\bin\Debug\FootBallWinForms.exe
+C:\Development\FootBall\FootBallWinForms\FootBallWinForms\bin\Debug\FootBallWinForms.pdb
+C:\Development\FootBall\FootBallWinForms\FootBallWinForms\obj\Debug\FootBallWinForms.FootBall.resources
+C:\Development\FootBall\FootBallWinForms\FootBallWinForms\obj\Debug\FootBallWinForms.Properties.Resources.resources
+C:\Development\FootBall\FootBallWinForms\FootBallWinForms\obj\Debug\FootBallWinForms.csproj.GenerateResource.cache
+C:\Development\FootBall\FootBallWinForms\FootBallWinForms\obj\Debug\FootBallWinForms.csproj.CoreCompileInputs.cache
+C:\Development\FootBall\FootBallWinForms\FootBallWinForms\obj\Debug\FootBallWinForms.exe
+C:\Development\FootBall\FootBallWinForms\FootBallWinForms\obj\Debug\FootBallWinForms.pdb
+C:\Development\FootBall\FootBallWinForms\FootBallWinForms\obj\Debug\FootBallWinForms.csprojAssemblyReference.cache
